@@ -1,0 +1,23 @@
+.Item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.suggestion {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #475569;
+}
+.button {
+  height: 40px;
+  width: 40px;
+  border-width: 0px;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+.arrow {
+  height: 30px;
+  width: 40px;
+}
